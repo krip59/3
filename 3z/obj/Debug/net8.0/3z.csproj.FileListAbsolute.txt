@@ -1,0 +1,15 @@
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.csproj.AssemblyReference.cache
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.AssemblyInfoInputs.cache
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.AssemblyInfo.cs
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.csproj.CoreCompileInputs.cache
+C:\Users\Владелец\Desktop\222222\3z\bin\Debug\net8.0\3z.exe
+C:\Users\Владелец\Desktop\222222\3z\bin\Debug\net8.0\3z.deps.json
+C:\Users\Владелец\Desktop\222222\3z\bin\Debug\net8.0\3z.runtimeconfig.json
+C:\Users\Владелец\Desktop\222222\3z\bin\Debug\net8.0\3z.dll
+C:\Users\Владелец\Desktop\222222\3z\bin\Debug\net8.0\3z.pdb
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.dll
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\refint\3z.dll
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.pdb
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\3z.genruntimeconfig.cache
+C:\Users\Владелец\Desktop\222222\3z\obj\Debug\net8.0\ref\3z.dll
